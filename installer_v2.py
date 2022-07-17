@@ -110,6 +110,7 @@ class DownloadTread(QObject):
                            os.path.join('C:\\Users', os.getlogin(), 'Desktop\\TLauncher'))
             except:
                 pass
+        #start tlauncher
         self.status_label.emit("Всё готово. Сейчас запуститься TLauncher")
         subprocess.Popen(f"{self.main_path}\\.minecraft\\TLauncher.exe")
         time.sleep(2)
