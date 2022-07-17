@@ -20,7 +20,7 @@ MinePy использует JSON файл для показа доступных
 
 Заходим через консоль в папку с проектом и вписываем:
 
-**pyinstaller --windowed --onefile --name <your-name> --clean --icon <yor_icon.ico> installer_v2.py**
+`pyinstaller --windowed --onefile --name <your-name> --clean --icon <yor_icon.ico> installer_v2.py`
 
 ## Планы на будущее (TODO)
 - Сделать сборку проекта одним скриптом
