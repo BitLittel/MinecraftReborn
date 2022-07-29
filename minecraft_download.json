@@ -34,6 +34,13 @@
     "del_dir_in_minecraft": ["config", "mods", "resourcepacks", "shaderpacks", "versions"],
     "del_file_in_tlauncher": ["tlauncher-2.0.properties"]
   },
+  "1.12.2": {
+    "url_full_minecraft": "https://disk.yandex.ru/d/hewRJ2VbuMWQmA",
+    "url_mini_minecraft": "https://disk.yandex.ru/d/Tn83HI2wzi8FUg",
+    "del_file_in_minecraft": [],
+    "del_dir_in_minecraft": ["config", "mods", "versions"],
+    "del_file_in_tlauncher": ["tlauncher-2.0.properties"]
+  },
   "1.17.1": {
     "url_full_minecraft": "https://disk.yandex.ru/d/d2ULI43uqR61Xw",
     "url_mini_minecraft": "https://disk.yandex.ru/d/8dIu7Fr4_KDDpg",
