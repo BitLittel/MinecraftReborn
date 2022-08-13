@@ -1,56 +1,7 @@
 {
-  "beta 1.7.3": {
-    "url_full_minecraft": "https://disk.yandex.ru/d/vzqvuN2FasQTZQ",
-    "url_mini_minecraft": "https://disk.yandex.ru/d/5pbDwTvHCyvC1Q",
-    "del_file_in_minecraft": [],
-    "del_dir_in_minecraft": ["versions"],
-    "del_file_in_tlauncher": ["tlauncher-2.0.properties"]
-  },
-  "beta 1.8.1": {
-    "url_full_minecraft": "https://disk.yandex.ru/d/wBIsQx4oKYrQ2A",
-    "url_mini_minecraft": "https://disk.yandex.ru/d/Ght89HxHaaBLgw",
-    "del_file_in_minecraft": [],
-    "del_dir_in_minecraft": ["versions"],
-    "del_file_in_tlauncher": ["tlauncher-2.0.properties"]
-  },
-  "1.2.5": {
-    "url_full_minecraft": "https://disk.yandex.ru/d/AnlTso_aQ_fcZQ",
-    "url_mini_minecraft": "https://disk.yandex.ru/d/6uKvDxG5DcQflw",
-    "del_file_in_minecraft": [],
-    "del_dir_in_minecraft": ["versions"],
-    "del_file_in_tlauncher": ["tlauncher-2.0.properties"]
-  },
-  "1.6.4": {
-    "url_full_minecraft": "https://disk.yandex.ru/d/5ATVUGVFRTQ_nQ",
-    "url_mini_minecraft": "https://disk.yandex.ru/d/XF6A4rr2t-97Zw",
-    "del_file_in_minecraft": [],
-    "del_dir_in_minecraft": ["versions", "Flan", "mods"],
-    "del_file_in_tlauncher": ["tlauncher-2.0.properties"]
-  },
-  "1.7.10": {
-    "url_full_minecraft": "https://disk.yandex.ru/d/6feD8n4uRBtICA",
-    "url_mini_minecraft": "https://disk.yandex.ru/d/jx9eJCzZHozHnQ",
-    "del_file_in_minecraft": ["options.txt", "optionsof.txt", "optionsshaders.txt"],
-    "del_dir_in_minecraft": ["config", "mods", "resourcepacks", "shaderpacks", "versions"],
-    "del_file_in_tlauncher": ["tlauncher-2.0.properties"]
-  },
-  "1.12.2": {
-    "url_full_minecraft": "https://disk.yandex.ru/d/hewRJ2VbuMWQmA",
-    "url_mini_minecraft": "https://disk.yandex.ru/d/Tn83HI2wzi8FUg",
-    "del_file_in_minecraft": [],
-    "del_dir_in_minecraft": ["config", "mods", "versions"],
-    "del_file_in_tlauncher": ["tlauncher-2.0.properties"]
-  },
-  "1.17.1": {
-    "url_full_minecraft": "https://disk.yandex.ru/d/d2ULI43uqR61Xw",
-    "url_mini_minecraft": "https://disk.yandex.ru/d/8dIu7Fr4_KDDpg",
-    "del_file_in_minecraft": ["options.txt"],
-    "del_dir_in_minecraft": ["mods", "resourcepacks", "shaderpacks", "versions"],
-    "del_file_in_tlauncher": ["tlauncher-2.0.properties"]
-  },
   "1.18.2": {
-    "url_full_minecraft": "https://disk.yandex.ru/d/QBiM0tN_QCkHdA",
-    "url_mini_minecraft": "https://disk.yandex.ru/d/wd-RuVeWlp2jdw",
+    "url_full_minecraft": "https://disk.yandex.ru/d/J49Fg9ssOJ5Vvg",
+    "url_mini_minecraft": "https://disk.yandex.ru/d/bC0-mGtKjHYofw",
     "del_file_in_minecraft": ["options.txt"],
     "del_dir_in_minecraft": ["mods", "resourcepacks", "shaderpacks", "versions"],
     "del_file_in_tlauncher": ["tlauncher-2.0.properties"]
