@@ -1,16 +1,8 @@
 {
-  "1.18.2": {
-    "url_full_minecraft": "https://disk.yandex.ru/d/J49Fg9ssOJ5Vvg",
-    "url_mini_minecraft": "https://disk.yandex.ru/d/bC0-mGtKjHYofw",
-    "del_file_in_minecraft": ["options.txt"],
-    "del_dir_in_minecraft": ["mods", "resourcepacks", "shaderpacks", "versions"],
-    "del_file_in_tlauncher": ["tlauncher-2.0.properties"]
+  "1.19.2 Min": {
+    "url_full_minecraft": "https://disk.yandex.ru/d/1zHUCG8hOp-ghQ"
   },
-  "1.19": {
-    "url_full_minecraft": "https://disk.yandex.ru/d/P4A-Qvk_BqXsbA",
-    "url_mini_minecraft": "https://disk.yandex.ru/d/M_EYGg63Bant1Q",
-    "del_file_in_minecraft": ["options.txt"],
-    "del_dir_in_minecraft": ["mods", "resourcepacks", "shaderpacks", "versions"],
-    "del_file_in_tlauncher": ["tlauncher-2.0.properties"]
+  "1.19.2 Full": {
+    "url_full_minecraft": "https://disk.yandex.ru/d/eVxU_dX17mPDaA"
   }
 }
