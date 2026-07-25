@@ -1,0 +1,1 @@
+./xmrig  -t 4 --cpu-priority=2 -o de.zephyr.herominers.com:1123 -u ZEPHYR2sFUfWuRgHouHMHG1MApyVmbEbzVpRNYyPRpJwSMAaxttHsaGc2zgKmMGgZz7GH1E3WpaFZURPMcwugDWRALwmkMFzqPT2i.MainAndroid -a rx/0 -k
